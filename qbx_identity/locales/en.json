@@ -1,0 +1,8 @@
+{
+    "error": {
+        "no_access": "You do not have permission to do that."
+    },
+    "success": {
+        "character_deleted": "Character deleted!"
+    }
+}
